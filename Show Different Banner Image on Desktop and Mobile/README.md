@@ -1,6 +1,7 @@
 # Show Different Shopify Banner Image on Desktop and Mobile
 -----
 Step - 1 Create following files in section folder
+
 1. custom-banner-desktop.liquid
 2. custom-banner-mobile.liquid 
 
