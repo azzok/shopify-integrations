@@ -10,7 +10,6 @@ just at before “</body>” tag. then save it.
 
 ```
 {% render 'back-to-top' %}
-
 ```
 ------
 For you reference
