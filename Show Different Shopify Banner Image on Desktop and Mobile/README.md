@@ -29,5 +29,5 @@ Step- 2 Add following style in theme.css or theme.css.liquid
 
 ------
 For you reference
-<a href="https://www.mojoin.com/show-shopify-banner-image?utm_source=github&utm_medium=inreadme">Click here </a>
+<a href="https://www.mojoin.com/show-shopify-banner-image/">Click here </a>
 
